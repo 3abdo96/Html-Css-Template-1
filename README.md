@@ -1,2 +1,2 @@
-# Html-Css-Template-1
-Design 1
+# Html-Css-Template 1
+ Template 1
